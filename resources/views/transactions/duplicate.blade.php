@@ -21,6 +21,7 @@
                     Created at: {{ $transaction->created_at }}
                     <br />
                     Created at: {{ $transaction->created_at }}
+
                 </div>
             </div>
         </div>
